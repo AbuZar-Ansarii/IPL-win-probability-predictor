@@ -55,7 +55,7 @@ if st.button("Predict Probability"):
                 st.header("Please Predict After Some Balls")
             else:
                 if wickets == 10:
-                    st.header(f"Batting Team Won {batting_team}")
+                    st.header(f"{batting_team} Won The Match")
                 else:
                     runs_left = target - score
                     balls_left = 120 - (overs*6)
