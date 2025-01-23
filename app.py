@@ -37,7 +37,7 @@ target = st.number_input("Target",min_value=0,max_value=350)
 
 col3,col4,col5 = st.columns(3)
 with col3:
-    score = st.number_input("Score",min_value=0,max_value=130)
+    score = st.number_input("Score",min_value=0,max_value=350)
 with col4:
     overs = st.number_input("Overs Completed",min_value=0,max_value=20)
 with col5:
