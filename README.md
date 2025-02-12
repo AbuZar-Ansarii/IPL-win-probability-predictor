@@ -20,7 +20,7 @@ This project is an **IPL Win Probability Predictor** that uses machine learning 
 ## 📌 Installation & Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/ipl-win-probability-predictor.git
+   git clone https://github.com/AbuZar-Ansarii/IPL-win-probability-predictor.git
    cd ipl-win-probability-predictor
    
 2. Install dependencies
